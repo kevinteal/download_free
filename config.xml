@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.DownloadClashFinder" version="1.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Download 2016 Clash Finder</name>
+<widget id="com.DownloadClashFinderFree" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Download Clash Finder Free</name>
     <description>
-       Download Festival Clash finder Line up times offline
+       Download Festival Clash finder Line up times offline free
     </description>
     <author email="kevin.teal1@gmail.com" href="http://phonegap.com">
         Kevin Teal
