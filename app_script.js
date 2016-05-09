@@ -1,5 +1,5 @@
 // JavaScript Document
-var db = openDatabase('download_2016_bands_db', '1.0', 'bands db', 2 * 1024 * 1024);
+var db = openDatabase('download_2016_bands_db_free', '1.0', 'bands db', 2 * 1024 * 1024);
 var total_stages =0;
 var day_arr=[];
 var day_name_arr=[];
