@@ -20,7 +20,7 @@ $(document).ready(function(e) {
 		var text = $(".feature_text").text();
 		console.log(text);
 		if(text=="Includes now playing section on home screen. Quickly see whos on and next on for each stage."){
-			$(".feature_text").text("Highlights which bands clash and shows time between bands your plan.");
+			$(".feature_text").text("Highlights which bands clash and shows the time between bands on your plan.");
 			$(".ad_box_main").css("background-image","url(imgs/clash.png)");
 		}else{
 			$(".feature_text").text("Includes now playing section on home screen. Quickly see whos on and next on for each stage.");
