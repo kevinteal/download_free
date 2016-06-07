@@ -309,7 +309,7 @@ tx.executeSql(' UPDATE bands_2016_v1 SET stage="The Maverick Stage" WHERE stage=
 tx.executeSql(' UPDATE bands_2016_v1 SET stage="The Dogtooth Stage" WHERE stage="4th Stage" ');
 
 tx.executeSql(' UPDATE bands_2016_v1 SET day=20160610 WHERE day=20161006 ');
-tx.executeSql(' UPDATE bands_2016_v1 SET day=20160611 WHERE day=20160611 ');
+tx.executeSql(' UPDATE bands_2016_v1 SET day=20160611 WHERE day=20161106 ');
 tx.executeSql(' UPDATE bands_2016_v1 SET day=20160612 WHERE day=20161206 ');
 
 		set_up_main_page();
